@@ -1,3 +1,13 @@
+/**
+     DOCUMENTATION
+     Author : Shivam Bankar
+     Created on : 13-04-2021
+     Company : xyz
+    
+     This is a program that performs basic bank related operations using oops.
+     */
+
+
 public class Main {
     public static void main(String[] args) {
         BankAccount bankAccount = new BankAccount();
